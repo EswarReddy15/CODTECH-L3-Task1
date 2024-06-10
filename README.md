@@ -1,5 +1,9 @@
 # CODTECH-L3-Task1
-NAME: SATTI ESWAR REDDY ID: CTJD172 DOMAIN: JAVA DEVELOPER DURATION: (1st MAY 2024 TO 1st AGUST 2024) MENTOR: SRAVANI GOUNI
+NAME: SATTI ESWAR REDDY 
+ID: CTJD172 
+DOMAIN: JAVA DEVELOPER DURATION: (1st MAY 2024 TO 1st AGUST 2024) 
+MENTOR: SRAVANI GOUNI
+
 An online banking system in Java is a sophisticated application designed to provide customers with convenient and secure access to their financial accounts over the internet. This system allows users to perform various banking operations such as viewing account balances, transferring funds, paying bills, and managing personal information.
 
 Security
